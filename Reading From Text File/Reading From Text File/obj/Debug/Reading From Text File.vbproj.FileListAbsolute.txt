@@ -1,0 +1,11 @@
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\bin\Debug\Reading From Text File.exe.config
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\bin\Debug\Reading From Text File.exe
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\bin\Debug\Reading From Text File.pdb
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\bin\Debug\Reading From Text File.xml
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\obj\Debug\Reading From Text File.vbprojAssemblyReference.cache
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\obj\Debug\Reading_From_Text_File.Form1.resources
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\obj\Debug\Reading_From_Text_File.Resources.resources
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\obj\Debug\Reading From Text File.vbproj.GenerateResource.cache
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\obj\Debug\Reading From Text File.exe
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\obj\Debug\Reading From Text File.xml
+C:\Users\angelu.angelu-PC\Desktop\repos2\Reading From Text File\Reading From Text File\obj\Debug\Reading From Text File.pdb
